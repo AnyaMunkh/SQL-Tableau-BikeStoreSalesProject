@@ -1,4 +1,6 @@
 
+-- In the query below 8 different relational tables were Joined and then put together using CTE table and aggregation function.
+
 WITH CTE_BikeStore AS (
 SELECT ord.order_id,ord.order_date,concat(cus.first_name,' ',cus.last_name) AS Full_Name, 
 cus.city, cus.state,cus.zip_code,
