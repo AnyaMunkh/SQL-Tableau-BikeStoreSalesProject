@@ -1,4 +1,4 @@
-# SQL,Tableau-BikeStoreSalesProject
+# SQL,Tableau-BikeStoreSalesAnalysisProject
 
 #### This is an comprehensive analysis and visualization project on the sales performance of an imaginary Bike Store. 
 
