@@ -1,4 +1,5 @@
--- This is the SQL query for extracting data from 8 different tables and putting them together in CTE table for the desired table format. 
+/* This is the SQL query for extracting data from 8 different tables and putting them together in CTE table for 
+the desired table format */
 
 WITH CTE_BikeStore AS (
 SELECT ord.order_id,ord.order_date,concat(cus.first_name,' ',cus.last_name) AS Full_Name, 
