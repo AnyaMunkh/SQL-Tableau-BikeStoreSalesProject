@@ -10,5 +10,4 @@ https://public.tableau.com/app/profile/anya5733/viz/BikeStoreDashboard_168404894
 
 
 For the original Database reference follow the link below.   
-
 https://www.sqlservertutorial.net/load-sample-database/
